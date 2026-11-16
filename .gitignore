@@ -71,3 +71,8 @@ config/*.yml
 # Misc
 .playwright-mcp/
 cypress/screenshots/
+
+# Sensitive files
+ctf.key
+encryptionkeys/
+*.kdbx
